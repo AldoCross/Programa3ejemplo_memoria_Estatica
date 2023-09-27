@@ -1,0 +1,7 @@
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa3-ejemplo memoria estática\programa3-ejemplo memoria estática\bin\Debug\programa3-ejemplo memoria estática.exe.config
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa3-ejemplo memoria estática\programa3-ejemplo memoria estática\bin\Debug\programa3-ejemplo memoria estática.exe
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa3-ejemplo memoria estática\programa3-ejemplo memoria estática\bin\Debug\programa3-ejemplo memoria estática.pdb
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa3-ejemplo memoria estática\programa3-ejemplo memoria estática\obj\Debug\programa3-ejemplo memoria estática.csprojAssemblyReference.cache
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa3-ejemplo memoria estática\programa3-ejemplo memoria estática\obj\Debug\programa3-ejemplo memoria estática.csproj.CoreCompileInputs.cache
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa3-ejemplo memoria estática\programa3-ejemplo memoria estática\obj\Debug\programa3-ejemplo memoria estática.exe
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa3-ejemplo memoria estática\programa3-ejemplo memoria estática\obj\Debug\programa3-ejemplo memoria estática.pdb
